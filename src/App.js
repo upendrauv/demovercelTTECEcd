@@ -1,5 +1,4 @@
-import axios from "axios"
-import { useState } from "react"
+
 import { BrowserRouter, Routes,Route } from "react-router-dom"
 import Reg from "./Reg"
 import Home from "./Home"
